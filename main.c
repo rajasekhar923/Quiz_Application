@@ -20,7 +20,7 @@ int main()
             goto back_to_enter_name;
         }
     }
-    fputs(data.user_name,fp);
+    fputs(data.user_name,fp);   // write name into file
     fputs("-------->",fp);
     back_to_enter_mobile_number:
     printf("Please enter your mobile number: ");
