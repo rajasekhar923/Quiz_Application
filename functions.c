@@ -11,7 +11,7 @@ void Cricket(void){
     int option;
     printf("How many players does a cricket team can have?\n1. 10\n2. 11\n3. 12\n4. 13\nEnter your option:");
     scanf("%d",&option);
-    if(option==2){      // checking weather the ans is true or false.
+    if(option==2){      // checking 
         score++;
     }
     printf("How many balls does a over have?\n1. 3\n2. 4\n3. 5\n4. 6\nEnter your option:");

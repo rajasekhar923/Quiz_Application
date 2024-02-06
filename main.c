@@ -25,7 +25,7 @@ int main()
     back_to_enter_mobile_number:
     printf("Please enter your mobile number: ");
     scanf(" %[^\n]s", data.user_mobile_number);
-    // checking mobile number is correct or not
+    // checking mobile number 
     for(int i=0;data.user_mobile_number[i];i++){
         if(data.user_mobile_number[i]>='0'&&data.user_mobile_number[i]<='9'){
 
