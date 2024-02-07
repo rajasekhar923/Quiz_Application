@@ -43,7 +43,7 @@ int main()
         printf("The number you have entered is not valid.");
         goto back_to_enter_mobile_number;
     }
-    fputs(data.user_mobile_number,fp);  // writing mobile number into text file
+    fputs(data.user_mobile_number,fp);  // writing mobile number into text file.
     fputs("-------->",fp);
     //fputs("\n",fp);
     printf("\nHello %s! Let's get started.\n", data.user_name);
