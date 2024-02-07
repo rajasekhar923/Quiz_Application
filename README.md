@@ -11,4 +11,8 @@ It asks users a series of questions and answers will be monitored.
 2. User has to select one of the topic according to user's wish.
 3. The questions will be displayed on the screen. User has to enter their option.
 	NOTE: There will be NO NEGATIVE Marks.
+<<<<<<< HEAD
 4. At the End of quiz, user can able to see their score on the display.
+=======
+4. At the End of quiz, user can able to see their score on the display.
+>>>>>>> c9d0e606c35b1444982ce1dc661693846bf20e21
